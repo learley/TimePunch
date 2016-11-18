@@ -62,5 +62,5 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-Scripts/* linguist-vendored
-Content/bootstrap* linguist-vendored
+TimePunch/Scripts/* linguist-vendored
+TimePunch/Content/bootstrap* linguist-vendored
